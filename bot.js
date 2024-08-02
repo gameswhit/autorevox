@@ -3,7 +3,7 @@ const axios = require('axios');
 const fs = require('fs');
 
 // Token API bot yang diberikan oleh BotFather
-const token = 'YOUR_TELEGRAM_BOT_TOKEN';
+const token = '7417731024:AAG_ln2izN51oBEuQCO0gl__SoIpEdniImI';
 const bot = new TelegramBot(token, { polling: true });
 
 // Membaca script task.js
